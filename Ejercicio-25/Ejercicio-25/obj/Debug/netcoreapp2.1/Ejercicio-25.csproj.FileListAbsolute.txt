@@ -1,0 +1,11 @@
+C:\Users\Migue\source\repos\Ejercicio-25\Ejercicio-25\bin\Debug\netcoreapp2.1\Ejercicio-25.deps.json
+C:\Users\Migue\source\repos\Ejercicio-25\Ejercicio-25\bin\Debug\netcoreapp2.1\Ejercicio-25.runtimeconfig.json
+C:\Users\Migue\source\repos\Ejercicio-25\Ejercicio-25\bin\Debug\netcoreapp2.1\Ejercicio-25.runtimeconfig.dev.json
+C:\Users\Migue\source\repos\Ejercicio-25\Ejercicio-25\bin\Debug\netcoreapp2.1\Ejercicio-25.dll
+C:\Users\Migue\source\repos\Ejercicio-25\Ejercicio-25\bin\Debug\netcoreapp2.1\Ejercicio-25.pdb
+C:\Users\Migue\source\repos\Ejercicio-25\Ejercicio-25\obj\Debug\netcoreapp2.1\Ejercicio-25.csprojAssemblyReference.cache
+C:\Users\Migue\source\repos\Ejercicio-25\Ejercicio-25\obj\Debug\netcoreapp2.1\Ejercicio-25.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Ejercicio-25\Ejercicio-25\obj\Debug\netcoreapp2.1\Ejercicio-25.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Ejercicio-25\Ejercicio-25\obj\Debug\netcoreapp2.1\Ejercicio-25.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Ejercicio-25\Ejercicio-25\obj\Debug\netcoreapp2.1\Ejercicio-25.dll
+C:\Users\Migue\source\repos\Ejercicio-25\Ejercicio-25\obj\Debug\netcoreapp2.1\Ejercicio-25.pdb

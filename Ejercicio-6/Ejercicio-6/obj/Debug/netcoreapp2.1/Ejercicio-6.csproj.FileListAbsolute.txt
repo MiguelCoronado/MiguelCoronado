@@ -1,0 +1,22 @@
+C:\Users\Migue\source\repos\Ejercicio-6\Ejercicio-6\bin\Debug\netcoreapp2.1\Ejercicio-6.deps.json
+C:\Users\Migue\source\repos\Ejercicio-6\Ejercicio-6\bin\Debug\netcoreapp2.1\Ejercicio-6.runtimeconfig.json
+C:\Users\Migue\source\repos\Ejercicio-6\Ejercicio-6\bin\Debug\netcoreapp2.1\Ejercicio-6.runtimeconfig.dev.json
+C:\Users\Migue\source\repos\Ejercicio-6\Ejercicio-6\bin\Debug\netcoreapp2.1\Ejercicio-6.dll
+C:\Users\Migue\source\repos\Ejercicio-6\Ejercicio-6\bin\Debug\netcoreapp2.1\Ejercicio-6.pdb
+C:\Users\Migue\source\repos\Ejercicio-6\Ejercicio-6\obj\Debug\netcoreapp2.1\Ejercicio-6.csprojAssemblyReference.cache
+C:\Users\Migue\source\repos\Ejercicio-6\Ejercicio-6\obj\Debug\netcoreapp2.1\Ejercicio-6.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Ejercicio-6\Ejercicio-6\obj\Debug\netcoreapp2.1\Ejercicio-6.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Ejercicio-6\Ejercicio-6\obj\Debug\netcoreapp2.1\Ejercicio-6.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Ejercicio-6\Ejercicio-6\obj\Debug\netcoreapp2.1\Ejercicio-6.dll
+C:\Users\Migue\source\repos\Ejercicio-6\Ejercicio-6\obj\Debug\netcoreapp2.1\Ejercicio-6.pdb
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejercicio-6\Ejercicio-6\bin\Debug\netcoreapp2.1\Ejercicio-6.deps.json
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejercicio-6\Ejercicio-6\bin\Debug\netcoreapp2.1\Ejercicio-6.runtimeconfig.json
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejercicio-6\Ejercicio-6\bin\Debug\netcoreapp2.1\Ejercicio-6.runtimeconfig.dev.json
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejercicio-6\Ejercicio-6\bin\Debug\netcoreapp2.1\Ejercicio-6.dll
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejercicio-6\Ejercicio-6\bin\Debug\netcoreapp2.1\Ejercicio-6.pdb
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejercicio-6\Ejercicio-6\obj\Debug\netcoreapp2.1\Ejercicio-6.csprojAssemblyReference.cache
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejercicio-6\Ejercicio-6\obj\Debug\netcoreapp2.1\Ejercicio-6.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejercicio-6\Ejercicio-6\obj\Debug\netcoreapp2.1\Ejercicio-6.AssemblyInfoInputs.cache
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejercicio-6\Ejercicio-6\obj\Debug\netcoreapp2.1\Ejercicio-6.AssemblyInfo.cs
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejercicio-6\Ejercicio-6\obj\Debug\netcoreapp2.1\Ejercicio-6.dll
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejercicio-6\Ejercicio-6\obj\Debug\netcoreapp2.1\Ejercicio-6.pdb

@@ -1,0 +1,10 @@
+C:\Users\Migue\source\repos\Ejercicio-46\Ejercicio-46\bin\Debug\netcoreapp2.1\Ejercicio-46.deps.json
+C:\Users\Migue\source\repos\Ejercicio-46\Ejercicio-46\bin\Debug\netcoreapp2.1\Ejercicio-46.runtimeconfig.json
+C:\Users\Migue\source\repos\Ejercicio-46\Ejercicio-46\bin\Debug\netcoreapp2.1\Ejercicio-46.runtimeconfig.dev.json
+C:\Users\Migue\source\repos\Ejercicio-46\Ejercicio-46\bin\Debug\netcoreapp2.1\Ejercicio-46.dll
+C:\Users\Migue\source\repos\Ejercicio-46\Ejercicio-46\bin\Debug\netcoreapp2.1\Ejercicio-46.pdb
+C:\Users\Migue\source\repos\Ejercicio-46\Ejercicio-46\obj\Debug\netcoreapp2.1\Ejercicio-46.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Ejercicio-46\Ejercicio-46\obj\Debug\netcoreapp2.1\Ejercicio-46.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Ejercicio-46\Ejercicio-46\obj\Debug\netcoreapp2.1\Ejercicio-46.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Ejercicio-46\Ejercicio-46\obj\Debug\netcoreapp2.1\Ejercicio-46.dll
+C:\Users\Migue\source\repos\Ejercicio-46\Ejercicio-46\obj\Debug\netcoreapp2.1\Ejercicio-46.pdb

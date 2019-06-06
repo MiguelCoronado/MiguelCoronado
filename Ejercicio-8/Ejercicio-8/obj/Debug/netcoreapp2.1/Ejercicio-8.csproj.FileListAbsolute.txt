@@ -1,0 +1,11 @@
+C:\Users\Migue\source\repos\Ejercicio-8\Ejercicio-8\bin\Debug\netcoreapp2.1\Ejercicio-8.deps.json
+C:\Users\Migue\source\repos\Ejercicio-8\Ejercicio-8\bin\Debug\netcoreapp2.1\Ejercicio-8.runtimeconfig.json
+C:\Users\Migue\source\repos\Ejercicio-8\Ejercicio-8\bin\Debug\netcoreapp2.1\Ejercicio-8.runtimeconfig.dev.json
+C:\Users\Migue\source\repos\Ejercicio-8\Ejercicio-8\bin\Debug\netcoreapp2.1\Ejercicio-8.dll
+C:\Users\Migue\source\repos\Ejercicio-8\Ejercicio-8\bin\Debug\netcoreapp2.1\Ejercicio-8.pdb
+C:\Users\Migue\source\repos\Ejercicio-8\Ejercicio-8\obj\Debug\netcoreapp2.1\Ejercicio-8.csprojAssemblyReference.cache
+C:\Users\Migue\source\repos\Ejercicio-8\Ejercicio-8\obj\Debug\netcoreapp2.1\Ejercicio-8.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Ejercicio-8\Ejercicio-8\obj\Debug\netcoreapp2.1\Ejercicio-8.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Ejercicio-8\Ejercicio-8\obj\Debug\netcoreapp2.1\Ejercicio-8.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Ejercicio-8\Ejercicio-8\obj\Debug\netcoreapp2.1\Ejercicio-8.dll
+C:\Users\Migue\source\repos\Ejercicio-8\Ejercicio-8\obj\Debug\netcoreapp2.1\Ejercicio-8.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejericico-23", "Ejericico-23\Ejericico-23.csproj", "{3E72A870-C73B-49EA-9192-60BE1BAD5CAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E72A870-C73B-49EA-9192-60BE1BAD5CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E72A870-C73B-49EA-9192-60BE1BAD5CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E72A870-C73B-49EA-9192-60BE1BAD5CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E72A870-C73B-49EA-9192-60BE1BAD5CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E486D58-CEC9-45DB-B452-7C091AF7F71D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Migue\source\repos\Ejercicio-54\Ejercicio-54\bin\Debug\netcoreapp2.1\Ejercicio-54.deps.json
+C:\Users\Migue\source\repos\Ejercicio-54\Ejercicio-54\bin\Debug\netcoreapp2.1\Ejercicio-54.runtimeconfig.json
+C:\Users\Migue\source\repos\Ejercicio-54\Ejercicio-54\bin\Debug\netcoreapp2.1\Ejercicio-54.runtimeconfig.dev.json
+C:\Users\Migue\source\repos\Ejercicio-54\Ejercicio-54\bin\Debug\netcoreapp2.1\Ejercicio-54.dll
+C:\Users\Migue\source\repos\Ejercicio-54\Ejercicio-54\bin\Debug\netcoreapp2.1\Ejercicio-54.pdb
+C:\Users\Migue\source\repos\Ejercicio-54\Ejercicio-54\obj\Debug\netcoreapp2.1\Ejercicio-54.csprojAssemblyReference.cache
+C:\Users\Migue\source\repos\Ejercicio-54\Ejercicio-54\obj\Debug\netcoreapp2.1\Ejercicio-54.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Ejercicio-54\Ejercicio-54\obj\Debug\netcoreapp2.1\Ejercicio-54.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Ejercicio-54\Ejercicio-54\obj\Debug\netcoreapp2.1\Ejercicio-54.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Ejercicio-54\Ejercicio-54\obj\Debug\netcoreapp2.1\Ejercicio-54.dll
+C:\Users\Migue\source\repos\Ejercicio-54\Ejercicio-54\obj\Debug\netcoreapp2.1\Ejercicio-54.pdb

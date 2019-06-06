@@ -1,0 +1,11 @@
+C:\Users\Migue\source\repos\Ejercicio-40\Ejercicio-40\bin\Debug\netcoreapp2.1\Ejercicio-40.deps.json
+C:\Users\Migue\source\repos\Ejercicio-40\Ejercicio-40\bin\Debug\netcoreapp2.1\Ejercicio-40.runtimeconfig.json
+C:\Users\Migue\source\repos\Ejercicio-40\Ejercicio-40\bin\Debug\netcoreapp2.1\Ejercicio-40.runtimeconfig.dev.json
+C:\Users\Migue\source\repos\Ejercicio-40\Ejercicio-40\bin\Debug\netcoreapp2.1\Ejercicio-40.dll
+C:\Users\Migue\source\repos\Ejercicio-40\Ejercicio-40\bin\Debug\netcoreapp2.1\Ejercicio-40.pdb
+C:\Users\Migue\source\repos\Ejercicio-40\Ejercicio-40\obj\Debug\netcoreapp2.1\Ejercicio-40.csprojAssemblyReference.cache
+C:\Users\Migue\source\repos\Ejercicio-40\Ejercicio-40\obj\Debug\netcoreapp2.1\Ejercicio-40.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Ejercicio-40\Ejercicio-40\obj\Debug\netcoreapp2.1\Ejercicio-40.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Ejercicio-40\Ejercicio-40\obj\Debug\netcoreapp2.1\Ejercicio-40.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Ejercicio-40\Ejercicio-40\obj\Debug\netcoreapp2.1\Ejercicio-40.dll
+C:\Users\Migue\source\repos\Ejercicio-40\Ejercicio-40\obj\Debug\netcoreapp2.1\Ejercicio-40.pdb

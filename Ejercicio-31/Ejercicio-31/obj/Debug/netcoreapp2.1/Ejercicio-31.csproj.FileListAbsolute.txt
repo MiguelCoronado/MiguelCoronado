@@ -1,0 +1,11 @@
+C:\Users\Migue\source\repos\Ejercicio-31\Ejercicio-31\bin\Debug\netcoreapp2.1\Ejercicio-31.deps.json
+C:\Users\Migue\source\repos\Ejercicio-31\Ejercicio-31\bin\Debug\netcoreapp2.1\Ejercicio-31.runtimeconfig.json
+C:\Users\Migue\source\repos\Ejercicio-31\Ejercicio-31\bin\Debug\netcoreapp2.1\Ejercicio-31.runtimeconfig.dev.json
+C:\Users\Migue\source\repos\Ejercicio-31\Ejercicio-31\bin\Debug\netcoreapp2.1\Ejercicio-31.dll
+C:\Users\Migue\source\repos\Ejercicio-31\Ejercicio-31\bin\Debug\netcoreapp2.1\Ejercicio-31.pdb
+C:\Users\Migue\source\repos\Ejercicio-31\Ejercicio-31\obj\Debug\netcoreapp2.1\Ejercicio-31.csprojAssemblyReference.cache
+C:\Users\Migue\source\repos\Ejercicio-31\Ejercicio-31\obj\Debug\netcoreapp2.1\Ejercicio-31.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Ejercicio-31\Ejercicio-31\obj\Debug\netcoreapp2.1\Ejercicio-31.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Ejercicio-31\Ejercicio-31\obj\Debug\netcoreapp2.1\Ejercicio-31.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Ejercicio-31\Ejercicio-31\obj\Debug\netcoreapp2.1\Ejercicio-31.dll
+C:\Users\Migue\source\repos\Ejercicio-31\Ejercicio-31\obj\Debug\netcoreapp2.1\Ejercicio-31.pdb

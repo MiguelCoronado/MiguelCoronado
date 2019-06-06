@@ -1,0 +1,11 @@
+C:\Users\Migue\source\repos\Ejercicios28\Ejercicios28\bin\Debug\netcoreapp2.1\Ejercicios28.deps.json
+C:\Users\Migue\source\repos\Ejercicios28\Ejercicios28\bin\Debug\netcoreapp2.1\Ejercicios28.runtimeconfig.json
+C:\Users\Migue\source\repos\Ejercicios28\Ejercicios28\bin\Debug\netcoreapp2.1\Ejercicios28.runtimeconfig.dev.json
+C:\Users\Migue\source\repos\Ejercicios28\Ejercicios28\bin\Debug\netcoreapp2.1\Ejercicios28.dll
+C:\Users\Migue\source\repos\Ejercicios28\Ejercicios28\bin\Debug\netcoreapp2.1\Ejercicios28.pdb
+C:\Users\Migue\source\repos\Ejercicios28\Ejercicios28\obj\Debug\netcoreapp2.1\Ejercicios28.csprojAssemblyReference.cache
+C:\Users\Migue\source\repos\Ejercicios28\Ejercicios28\obj\Debug\netcoreapp2.1\Ejercicios28.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Ejercicios28\Ejercicios28\obj\Debug\netcoreapp2.1\Ejercicios28.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Ejercicios28\Ejercicios28\obj\Debug\netcoreapp2.1\Ejercicios28.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Ejercicios28\Ejercicios28\obj\Debug\netcoreapp2.1\Ejercicios28.dll
+C:\Users\Migue\source\repos\Ejercicios28\Ejercicios28\obj\Debug\netcoreapp2.1\Ejercicios28.pdb

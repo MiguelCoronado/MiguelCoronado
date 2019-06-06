@@ -1,0 +1,11 @@
+C:\Users\Migue\source\repos\Ejercicio-16\Ejercicio-16\bin\Debug\netcoreapp2.1\Ejercicio-16.deps.json
+C:\Users\Migue\source\repos\Ejercicio-16\Ejercicio-16\bin\Debug\netcoreapp2.1\Ejercicio-16.runtimeconfig.json
+C:\Users\Migue\source\repos\Ejercicio-16\Ejercicio-16\bin\Debug\netcoreapp2.1\Ejercicio-16.runtimeconfig.dev.json
+C:\Users\Migue\source\repos\Ejercicio-16\Ejercicio-16\bin\Debug\netcoreapp2.1\Ejercicio-16.dll
+C:\Users\Migue\source\repos\Ejercicio-16\Ejercicio-16\bin\Debug\netcoreapp2.1\Ejercicio-16.pdb
+C:\Users\Migue\source\repos\Ejercicio-16\Ejercicio-16\obj\Debug\netcoreapp2.1\Ejercicio-16.csprojAssemblyReference.cache
+C:\Users\Migue\source\repos\Ejercicio-16\Ejercicio-16\obj\Debug\netcoreapp2.1\Ejercicio-16.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Ejercicio-16\Ejercicio-16\obj\Debug\netcoreapp2.1\Ejercicio-16.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Ejercicio-16\Ejercicio-16\obj\Debug\netcoreapp2.1\Ejercicio-16.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Ejercicio-16\Ejercicio-16\obj\Debug\netcoreapp2.1\Ejercicio-16.dll
+C:\Users\Migue\source\repos\Ejercicio-16\Ejercicio-16\obj\Debug\netcoreapp2.1\Ejercicio-16.pdb

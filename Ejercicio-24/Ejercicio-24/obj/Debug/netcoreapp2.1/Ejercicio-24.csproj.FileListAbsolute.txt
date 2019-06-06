@@ -1,0 +1,11 @@
+C:\Users\Migue\source\repos\Ejercicio-24\Ejercicio-24\bin\Debug\netcoreapp2.1\Ejercicio-24.deps.json
+C:\Users\Migue\source\repos\Ejercicio-24\Ejercicio-24\bin\Debug\netcoreapp2.1\Ejercicio-24.runtimeconfig.json
+C:\Users\Migue\source\repos\Ejercicio-24\Ejercicio-24\bin\Debug\netcoreapp2.1\Ejercicio-24.runtimeconfig.dev.json
+C:\Users\Migue\source\repos\Ejercicio-24\Ejercicio-24\bin\Debug\netcoreapp2.1\Ejercicio-24.dll
+C:\Users\Migue\source\repos\Ejercicio-24\Ejercicio-24\bin\Debug\netcoreapp2.1\Ejercicio-24.pdb
+C:\Users\Migue\source\repos\Ejercicio-24\Ejercicio-24\obj\Debug\netcoreapp2.1\Ejercicio-24.csprojAssemblyReference.cache
+C:\Users\Migue\source\repos\Ejercicio-24\Ejercicio-24\obj\Debug\netcoreapp2.1\Ejercicio-24.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Ejercicio-24\Ejercicio-24\obj\Debug\netcoreapp2.1\Ejercicio-24.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Ejercicio-24\Ejercicio-24\obj\Debug\netcoreapp2.1\Ejercicio-24.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Ejercicio-24\Ejercicio-24\obj\Debug\netcoreapp2.1\Ejercicio-24.dll
+C:\Users\Migue\source\repos\Ejercicio-24\Ejercicio-24\obj\Debug\netcoreapp2.1\Ejercicio-24.pdb

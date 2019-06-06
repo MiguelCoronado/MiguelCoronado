@@ -1,0 +1,11 @@
+C:\Users\Migue\source\repos\Ejercicio-45\Ejercicio-45\bin\Debug\netcoreapp2.1\Ejercicio-45.deps.json
+C:\Users\Migue\source\repos\Ejercicio-45\Ejercicio-45\bin\Debug\netcoreapp2.1\Ejercicio-45.runtimeconfig.json
+C:\Users\Migue\source\repos\Ejercicio-45\Ejercicio-45\bin\Debug\netcoreapp2.1\Ejercicio-45.runtimeconfig.dev.json
+C:\Users\Migue\source\repos\Ejercicio-45\Ejercicio-45\bin\Debug\netcoreapp2.1\Ejercicio-45.dll
+C:\Users\Migue\source\repos\Ejercicio-45\Ejercicio-45\bin\Debug\netcoreapp2.1\Ejercicio-45.pdb
+C:\Users\Migue\source\repos\Ejercicio-45\Ejercicio-45\obj\Debug\netcoreapp2.1\Ejercicio-45.csprojAssemblyReference.cache
+C:\Users\Migue\source\repos\Ejercicio-45\Ejercicio-45\obj\Debug\netcoreapp2.1\Ejercicio-45.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Ejercicio-45\Ejercicio-45\obj\Debug\netcoreapp2.1\Ejercicio-45.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Ejercicio-45\Ejercicio-45\obj\Debug\netcoreapp2.1\Ejercicio-45.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Ejercicio-45\Ejercicio-45\obj\Debug\netcoreapp2.1\Ejercicio-45.dll
+C:\Users\Migue\source\repos\Ejercicio-45\Ejercicio-45\obj\Debug\netcoreapp2.1\Ejercicio-45.pdb

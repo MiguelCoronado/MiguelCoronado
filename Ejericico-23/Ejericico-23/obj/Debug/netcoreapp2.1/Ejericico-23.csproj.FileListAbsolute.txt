@@ -1,0 +1,22 @@
+C:\Users\Migue\source\repos\Ejericico-23\Ejericico-23\bin\Debug\netcoreapp2.1\Ejericico-23.deps.json
+C:\Users\Migue\source\repos\Ejericico-23\Ejericico-23\bin\Debug\netcoreapp2.1\Ejericico-23.runtimeconfig.json
+C:\Users\Migue\source\repos\Ejericico-23\Ejericico-23\bin\Debug\netcoreapp2.1\Ejericico-23.runtimeconfig.dev.json
+C:\Users\Migue\source\repos\Ejericico-23\Ejericico-23\bin\Debug\netcoreapp2.1\Ejericico-23.dll
+C:\Users\Migue\source\repos\Ejericico-23\Ejericico-23\bin\Debug\netcoreapp2.1\Ejericico-23.pdb
+C:\Users\Migue\source\repos\Ejericico-23\Ejericico-23\obj\Debug\netcoreapp2.1\Ejericico-23.csprojAssemblyReference.cache
+C:\Users\Migue\source\repos\Ejericico-23\Ejericico-23\obj\Debug\netcoreapp2.1\Ejericico-23.csproj.CoreCompileInputs.cache
+C:\Users\Migue\source\repos\Ejericico-23\Ejericico-23\obj\Debug\netcoreapp2.1\Ejericico-23.AssemblyInfoInputs.cache
+C:\Users\Migue\source\repos\Ejericico-23\Ejericico-23\obj\Debug\netcoreapp2.1\Ejericico-23.AssemblyInfo.cs
+C:\Users\Migue\source\repos\Ejericico-23\Ejericico-23\obj\Debug\netcoreapp2.1\Ejericico-23.dll
+C:\Users\Migue\source\repos\Ejericico-23\Ejericico-23\obj\Debug\netcoreapp2.1\Ejericico-23.pdb
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejericico-23\Ejericico-23\bin\Debug\netcoreapp2.1\Ejericico-23.deps.json
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejericico-23\Ejericico-23\bin\Debug\netcoreapp2.1\Ejericico-23.runtimeconfig.json
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejericico-23\Ejericico-23\bin\Debug\netcoreapp2.1\Ejericico-23.runtimeconfig.dev.json
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejericico-23\Ejericico-23\bin\Debug\netcoreapp2.1\Ejericico-23.dll
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejericico-23\Ejericico-23\bin\Debug\netcoreapp2.1\Ejericico-23.pdb
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejericico-23\Ejericico-23\obj\Debug\netcoreapp2.1\Ejericico-23.csprojAssemblyReference.cache
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejericico-23\Ejericico-23\obj\Debug\netcoreapp2.1\Ejericico-23.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejericico-23\Ejericico-23\obj\Debug\netcoreapp2.1\Ejericico-23.AssemblyInfoInputs.cache
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejericico-23\Ejericico-23\obj\Debug\netcoreapp2.1\Ejericico-23.AssemblyInfo.cs
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejericico-23\Ejericico-23\obj\Debug\netcoreapp2.1\Ejericico-23.dll
+C:\Users\Migue\Desktop\Proyectos de MiguelC\Ejericico-23\Ejericico-23\obj\Debug\netcoreapp2.1\Ejericico-23.pdb

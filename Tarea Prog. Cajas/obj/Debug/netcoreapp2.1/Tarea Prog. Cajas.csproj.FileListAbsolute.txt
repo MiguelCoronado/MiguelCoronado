@@ -1,0 +1,11 @@
+C:\Users\Migue\Documents\Visual Studio 2019\Visualizers\Tarea Prog. Cajas\bin\Debug\netcoreapp2.1\Tarea Prog. Cajas.deps.json
+C:\Users\Migue\Documents\Visual Studio 2019\Visualizers\Tarea Prog. Cajas\bin\Debug\netcoreapp2.1\Tarea Prog. Cajas.runtimeconfig.json
+C:\Users\Migue\Documents\Visual Studio 2019\Visualizers\Tarea Prog. Cajas\bin\Debug\netcoreapp2.1\Tarea Prog. Cajas.runtimeconfig.dev.json
+C:\Users\Migue\Documents\Visual Studio 2019\Visualizers\Tarea Prog. Cajas\bin\Debug\netcoreapp2.1\Tarea Prog. Cajas.dll
+C:\Users\Migue\Documents\Visual Studio 2019\Visualizers\Tarea Prog. Cajas\bin\Debug\netcoreapp2.1\Tarea Prog. Cajas.pdb
+C:\Users\Migue\Documents\Visual Studio 2019\Visualizers\Tarea Prog. Cajas\obj\Debug\netcoreapp2.1\Tarea Prog. Cajas.csprojAssemblyReference.cache
+C:\Users\Migue\Documents\Visual Studio 2019\Visualizers\Tarea Prog. Cajas\obj\Debug\netcoreapp2.1\Tarea Prog. Cajas.csproj.CoreCompileInputs.cache
+C:\Users\Migue\Documents\Visual Studio 2019\Visualizers\Tarea Prog. Cajas\obj\Debug\netcoreapp2.1\Tarea Prog. Cajas.AssemblyInfoInputs.cache
+C:\Users\Migue\Documents\Visual Studio 2019\Visualizers\Tarea Prog. Cajas\obj\Debug\netcoreapp2.1\Tarea Prog. Cajas.AssemblyInfo.cs
+C:\Users\Migue\Documents\Visual Studio 2019\Visualizers\Tarea Prog. Cajas\obj\Debug\netcoreapp2.1\Tarea Prog. Cajas.dll
+C:\Users\Migue\Documents\Visual Studio 2019\Visualizers\Tarea Prog. Cajas\obj\Debug\netcoreapp2.1\Tarea Prog. Cajas.pdb
